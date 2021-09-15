@@ -11,43 +11,43 @@ The following images were created to analyze the ridership data:
 <br></br>
 
 ### Checkout Times for All Users: 
-![citibike_01.png](Data/citibike_01.png)
+![citibike_01.png](Resources/citibike_01.png)
 <br>
 Users typically spend less than one hour riding the bike, suggesting that they are only going a short distance. It would be more advantageous to target high-traffic areas for this reason.
 <br></br>
 
 ### Checkout Times by Gender: 
-![citibike_02.png](Data/citibike_02.png)
+![citibike_02.png](Resources/citibike_02.png)
 <br>
 The most frequent riders by gender are males. However, even with their increase in rides, they are still typically riding under one hour.
 <br></br>
 
 ### Trips by Weekday per Hour:
-![citibike_03.png](Data/citibike_03.png)
+![citibike_03.png](Resources/citibike_03.png)
 <br>
 Trip counts follow the 5-day work week trend. There's more traffic Monday-Friday at 6am - 9am and 5pm - 7pm. Saturday and Sunday see more traffic from 10am - 7pm. 
 <br></br>
 
 ### Trips by Gender (Weekday per hour):
-![citibike_04.png](Data/citibike_04.png)
+![citibike_04.png](Resources/citibike_04.png)
 <br>
 This graph follows the 5-day weekday trends that were reflected in the previous slide and also depicts the higher frequency in male riders.
 <br></br>
 
 ### User Frequency by Gender and User Type:
-![citibike_05.png](Data/citibike_05.png)
+![citibike_05.png](Resources/citibike_05.png)
 <br>
 There are more subscription riders between males and females. The unknown gender could partially be due to first-time riders, which is why they are slightly more likely to not be a subscriber. 
 <br></br>
 
 ### Top Starting Points: 
-![citibike_06.png](Data/citibike_06.png)
+![citibike_06.png](Resources/citibike_06.png)
 <br>
 Here, the data shows that there are more riders in the central city/downtown part of Manhattan. Riders often rely on alternative forms of transportation in the inner-city, so Citibike should focus a lot of its bike drop off locations in the central part of the city. 
 <br></br>
 
 ### Top Ending Points:
-![citibike_07.png](Data/citibike_07.png)
+![citibike_07.png](Resources/citibike_07.png)
 <br>
 The ending points reflect the same trends as the starting points, showing that the majority of bike sharing customers are residents or tourists visiting the downtown area of the city. 
 
